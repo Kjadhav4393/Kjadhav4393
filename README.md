@@ -21,5 +21,8 @@ Demonstrate the capability of managing clean, elegant, and efficient code.I lear
   <a href="https://github.com/Kjadhav4393/github-readme-stats"><img alt="Kamlesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kjadhav4393&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </br>
   <a href="https://github.com/Kjadhav4393/github-readme-stats"><img alt="Kamlesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kjadhav4393&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p><a> 
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kjadhav4393.visitor-badge)
+  </a></p>
 
 
