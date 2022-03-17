@@ -7,8 +7,8 @@
 <br/>
 
 ## About Me
-**I'm Full-stack web developer with a history of education in Mechanical Engineering and an interest in coding** hands-on experience in designing, developing, and maintaining projects Adept at learning, unlearning, and relearning. 
-Demonstrate the capability of managing clean, elegant, and efficient code.I learned web development-related tools and stacks.
+**I'm Full-stack web developer with a history of education in Mechanical Engineering and an interest in coding** hands-on experience in designing, developing, and maintaining projects Adept at learning, unlearning, and relearning.Skilled at building and maintaining MERN based web applications. 
+Demonstrate the capability of managing clean, elegant, and efficient code.I learned web development-related tools and stacks.Looking forward to joining a progressive and challenging work environment. 
 - 🎓 Studying **Full-Stack Web Development at Masai School**
 - 🌱 I’m currently learning **React,Data Structures and Algorithms**
 - 📫 How to reach me **kamleshjadhav4393@gmail.com**
